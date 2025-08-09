@@ -1,6 +1,6 @@
 # fayzehe-sss
 nango
-<!-- Profile README Template -->
+<!-- Profile README Templat -->
 <!-- Replace YOUR_USERNAME with your actual GitHub username -->
 
 <!-- Header with typing animation -->
