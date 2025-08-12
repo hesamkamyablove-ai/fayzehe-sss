@@ -1,6 +1,6 @@
 # 👋 Hi, I'm [Your Name] — Twitter Developer & Backend Engineer
 
-I'm  software engineer who builds tools, bots, and integrations for the Twitter ecosystem.  
+I'm  oftware engineer who builds tools, bots, and integrations for the Twitter ecosystem.  
 I focus on resilient backend systems, reliable automation, and thoughtful developer experiences.
 
 ---
