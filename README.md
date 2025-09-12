@@ -1,4 +1,4 @@
-## 👋 Hi, Im' [Your Name] — twitter Developer & Backend Engineer
+## 👋 Hi, Im' [Your Name] — twitter Developer & Backend Enginee
 
 'im software engineer who builds tools, bots, and integrations for the Twitter ecosystem.  
 focus on resilient backend systems, reliable automation, and thoughtful developer experiences.
