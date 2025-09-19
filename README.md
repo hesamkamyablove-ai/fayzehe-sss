@@ -5,7 +5,7 @@ focus on resilient backend systems, reliable automation, and thoughtful develope
 
 ---
 
- 🔭 What I build
+ 🔭 What I build ecoseystem
 - Twitter bots for content automation, moderation, and analytics  
 - Stream processors that consume and transform tweet data in real time  
 - Secure API integrations and developer tools for small teams
