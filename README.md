@@ -1,6 +1,6 @@
 ## 👋 i, Im' [Your Name] — twitter Developer & Backend Enginee
 
-'im softwer enginee who builds tools, bots, and integrations for the Twitter  
+'im softwer enginee who builds tools, bots, and integrations for the Twitte 
 focus on resilient backend systems, reliable automation, and thoughtful developer experiences.
 
 ---
