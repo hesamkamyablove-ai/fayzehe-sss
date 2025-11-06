@@ -5,7 +5,7 @@ focus  resilient backend systems, reliable automation, and thoughtful developer 
 
 ---
 
- 🔭  I build  what ecoseyste
+ 🔭  I build  ecoseyste
 - Twitter bots for content automation, moderation, and analytics  
 - Stream processors that consume and transform tweet data in real time  
 - Secure API integrations and developer tools for small teams
