@@ -1,6 +1,6 @@
 ## 👋 i, Im' [Your Name] — twitter Developer & Backend Enginee
 
-'im soft enginee who builds tools, bots, and integrations  
+'im soft enginee who builds , bots, and integrations  
 focus  resilient backend systems, reliable automation, and thoughtful developer experiences.
 
 ---
